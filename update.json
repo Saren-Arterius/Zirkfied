@@ -1,8 +1,8 @@
 {
-  "version_name": "0.0.1",
-  "version_code": 1,
+  "version_name": "0.0.1a",
+  "version_code": 2,
   "description": "- First release",
-  "url": "https://github.com/Saren-Arterius/Zirkfied/releases/download/v0.0.1/app-release.apk",
+  "url": "https://github.com/Saren-Arterius/Zirkfied/releases/download/v0.0.1a/app-release.apk",
   "pubdate": "2015-02-02",
-  "ban_version_code_under": 1
+  "ban_version_code_under": 2
 }
